@@ -1,7 +1,7 @@
 ![Workshop_header_template](/Workshop_header_template.png)
 # skelconverter.py - Convert from original to remastered format
 
-## Table Of Contents
+## Table Of Contents
 
 * [WARNING](#warning)
 * [How it works](#how-it-works)
